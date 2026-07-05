@@ -376,7 +376,7 @@ with st.sidebar:
     st.markdown("""
     <div style='font-family:"DM Mono",monospace; font-size:9px; color:#A0AABF;
                 text-align:center; line-height:1.8;'>
-        Revaldo · Wirsan · Ahmad Rifky<br>Penggalian Data · 2025
+        Revaldo · Wirsan · Ahmad Rifky<br>Penggalian Data · 2026
     </div>""", unsafe_allow_html=True)
 
 
